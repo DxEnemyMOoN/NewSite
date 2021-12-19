@@ -1,0 +1,24 @@
+    body{font-family: "Comic Sans MS", cursive;
+         font-weight:500;
+         line-height: 1.3em;
+        }
+    h1{text-align: center;}
+
+    p{font-style: italic;}
+    a{color:#5E454B;}
+    hr {
+     border-style:none;
+     border-top-style: dotted;
+     width:65%;
+     border-color:#CEE5D0;
+     border-width: 7px;
+     }
+    img{
+     border-radius: 1em 1em 1em 1em;
+     box-shadow: 0 0 3px 5px rgba(0, 0, 0, .2);
+     }
+   .galery{width: 600px;}
+
+     button:hover{color:blue;}
+
+     #texcent{text-align: center;}
